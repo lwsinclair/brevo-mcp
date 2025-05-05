@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/apicolet-brevo-mcp-badge.png)](https://mseep.ai/app/apicolet-brevo-mcp)
+
 # Brevo MCP (Multi-Channel Platform)
 
 A Model Context Protocol (MCP) implementation for the Brevo API, designed for seamless integration with Claude and other AI assistants.
